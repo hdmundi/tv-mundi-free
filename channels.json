@@ -1,0 +1,9 @@
+[
+  {"name": "TV Pública", "url": "https://lvlt.live/publica.m3u8", "category": "Argentina"},
+  {"name": "Canal 26", "url": "https://live-edge01.telecentro.net.ar/live/smil:26.smil/playlist.m3u8", "category": "Argentina"},
+  {"name": "Acequia TV", "url": "https://5e4f8404e85bde0016a0fdf6.livecast.tech/acequiatv/index.m3u8", "category": "Mendoza"},
+  {"name": "Señal U", "url": "https://stream.señalu.tv/live/stream.m3u8", "category": "Mendoza"},
+  {"name": "DW Español", "url": "https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124556/index_1_av-p.m3u8", "category": "Mundo"},
+  {"name": "France 24", "url": "https://f24hls-i.akamaihd.net/hls/live/520845/F24_ES/master.m3u8", "category": "Mundo"},
+  {"name": "Al Jazeera", "url": "https://live-hls-web-aje.getaj.net/AJE/index.m3u8", "category": "Mundo"}
+]

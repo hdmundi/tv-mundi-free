@@ -1,0 +1,9 @@
+{
+  "movies": [
+    {"title": "Nosferatu", "url": "https://archive.org/download/nosferatu1922/Nosferatu_512kb.mp4", "genre": "Terror"},
+    {"title": "Metrópolis", "url": "https://archive.org/download/Metropolis1927/Metropolis_512kb.mp4", "genre": "Ciencia ficción"}
+  ],
+  "series": [
+    {"title": "Sherlock Holmes", "url": "https://archive.org/download/sherlockholmes_202105/SherlockHolmes.mp4", "genre": "Misterio"}
+  ]
+}
